@@ -10,7 +10,7 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 
-- **1b)**
+- **1b) The work of the algorithm O((n + m) log n). The span of the algorithm O(n log n).**
 
 
 
